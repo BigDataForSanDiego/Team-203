@@ -54,5 +54,5 @@
 
 #### Team Coordinator GitHub Username: `sgtran`
 
-#### Team Members `Sean : sgtran`
+#### Team Members `Sean : sgtran`, 'Rachel: ', 'Sumay: ', 'Spencer: '
 
