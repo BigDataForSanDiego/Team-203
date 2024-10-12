@@ -21,7 +21,7 @@
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
-![Image](IMG_1604.HEIC)
+![Image]([IMG_1604.HEIC](https://github.com/BigDataForSanDiego/Team-203/blob/main/IMG_1604.HEIC))
 
 
 <!--
